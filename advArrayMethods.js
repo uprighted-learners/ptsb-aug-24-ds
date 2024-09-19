@@ -259,6 +259,8 @@ console.log(word)
 
 let firstArray = ["Paul", "Corey", "Nick"]
 
+// -------------------- shallow copy ------------------------------
+
 // let secondArray = firstArray
 // console.log(secondArray)
 
